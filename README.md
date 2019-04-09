@@ -1,2 +1,2 @@
-# GeodesicQuadrotor
+# Quadrotor Electronics
 Nikobotics Quadcopter Repository
