@@ -1,10 +1,12 @@
-[ ] Find better power switch
-[ ] Find 4 1-cell lipo chargers and a configuration to arrange them
-[ ] Find USB C port
-[ ] Find Find LEDs and appropriate RESNETS
-[ ] Replace current RGB RESNETS with new values for 4SnP lipo
+[X] Find better power switch
+[X] Find 4 1-cell lipo chargers and a configuration to arrange them
+[X] Find USB C port
+[X] Find Find LEDs and appropriate RESNETS
+[X] Replace current RGB RESNETS with new values for 4SnP lipo
 [ ] How to make ST-Link work?
-[ ] Crystal Oscillators
-[ ] Power both MCUs off of one oscillator?
-[ ] Higher current power regulation for 3.3V
-[ ] 4S voltage to 1.8V power regulator for IMU
+[X] Crystal Oscillators
+[X] Power both MCUs off of one oscillator?
+[X] Higher current power regulation for 3.3V
+[X] 4S voltage to 1.8V power regulator for IMU
+[X] Add MOSFETs to PO 
+[ ] Choose smaller pitch connector for control board to power board connection.
