@@ -1,2 +1,2 @@
 # Quadrotor Electronics
-Nikobotics Quadcopter Repository
+Nikobotics Quadcopter Electronics Repository
