@@ -18,9 +18,11 @@
 [X] Switch CAD
 [X] Switch Layout
 [X] USB C Connector Layout & Schematic Element
-[ ] USB C Connector CAD
+[X] USB C Connector CAD
 [ ] RGB LED CAD
 [ ] LED CAD
+[ ] Crystal Oscillator Layout
+[ ] Crystal Oscillator CAD
 [ ] Schematic Symbols
 [ ] Re-Check Resnet footprint - custom and automatic don't match
-[ ] 
+[ ] Current/Voltage sense
