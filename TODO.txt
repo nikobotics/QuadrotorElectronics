@@ -10,3 +10,17 @@
 [X] 4S voltage to 1.8V power regulator for IMU
 [X] Add MOSFETs to PO 
 [ ] Choose smaller pitch connector for control board to power board connection.
+[ ] CAD for ICM-20789
+[ ] CAD for LSM9DS1TR
+[ ] CAD for deans connectors
+[X] CAD for FFC connectors
+[ ] Transistor schematic for 5V power
+[X] Switch CAD
+[X] Switch Layout
+[X] USB C Connector Layout & Schematic Element
+[ ] USB C Connector CAD
+[ ] RGB LED CAD
+[ ] LED CAD
+[ ] Schematic Symbols
+[ ] Re-Check Resnet footprint - custom and automatic don't match
+[ ] 
