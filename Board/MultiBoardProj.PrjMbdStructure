@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=I:\GitHub\QuadrotorElectronics\Board\Board_Project.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=I:\GitHub\QuadrotorElectronics\Board\Board_Project.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=I:\GitHub\QuadrotorElectronics\Board\PeripheralPCB.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=I:\GitHub\QuadrotorElectronics\Board\PeripheralPCB.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=I:\GitHub\QuadrotorElectronics\Board\PowerPCB.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=I:\GitHub\QuadrotorElectronics\Board\PowerPCB.PrjPCB
