@@ -26,3 +26,4 @@
 [ ] Schematic Symbols
 [ ] Re-Check Resnet footprint - custom and automatic don't match
 [ ] Current/Voltage sense
+[ ] Find schottky diode for 5V regulation (low-as-possible Vf)
