@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KBAPGFJH
 
 [Document4]
-DocumentPath=XTALS_SCH.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NNSHRVHC
-
-[Document5]
 DocumentPath=LED_SCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VWQVJTIS
 
-[Document6]
+[Document5]
 DocumentPath=Signal_Pow_Reg_SCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYESTASS
 
-[Document7]
+[Document6]
 DocumentPath=Black_Magic_SCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADAYWIVF
 
-[Document8]
+[Document7]
 DocumentPath=Control_Brd.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
