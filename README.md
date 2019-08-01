@@ -1,2 +1,4 @@
 # Quadrotor Electronics
-Nikobotics Quadcopter Electronics Repository
+Nikobotics Quadcopter Electronics Repository.
+
+Using Altium Designer.
