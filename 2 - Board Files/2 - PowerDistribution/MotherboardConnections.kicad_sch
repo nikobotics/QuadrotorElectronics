@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1f22b38c-34b2-41d1-a7fd-1814570d7fb1)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Connections required:\n\n1)  IN USB 5V\n2)  IN Motor PWM 1\n3)  IN Motor PWM 2\n4)  IN Motor PWM 3\n5)  IN Motor PWM 4\n6)  OUT Motor Current (I2C current devices or 4x analog channels)\n7)  IN/OUT SYSTEM GROUND (multiple pins)\n8)  OUT Battery Voltage\n9)  OUT Battery Current (Charge and Discharge)\n10) OUT Battery Temperature (maybe could be Discrete I/O for TEMP OK)\n11) IN/OUT KEYED PIN (to prevent reverse connection)\n12) OUT System LV bus current (I2C current device or 1x analog channel)\n         ~ Might not need this here, may go on motherboard\n13) OUT Charging Active Discrete I/O\n14) OUT System LV Power Bus output (3.3-5V LV Bus, still not certain on specifics)"
+    (at 19.05 90.17 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid aea808cc-4bf1-43cf-a5ab-50c99cef3fb0)
+  )
+)
