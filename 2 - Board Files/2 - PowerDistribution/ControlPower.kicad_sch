@@ -7,4 +7,10 @@
   (lib_symbols
   )
 
+
+  (text "Switching Regulator A, 16V->3.3V\nSwitching Regulator B, 5V->3.3V\n\nIF USB 5V PRESENT:\n\nDISABLE SWITCHER A, ENABLE SWITCHER B\n\nOTHERWISE,\n\nENABLE SWITCHER A, DISABLE SWITCHER B\n\nEnsure hold up adequate to regulate during the switch!!"
+    (at 17.78 39.37 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5478dc28-b22e-43ec-9c4f-2042cff7b121)
+  )
 )
