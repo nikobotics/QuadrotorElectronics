@@ -345,9 +345,7 @@
     "pinned_footprint_libs": [
       "QuadrotorFootprints"
     ],
-    "pinned_symbol_libs": [
-      "QuadrotorLib"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "PowerDistribution.kicad_pro",

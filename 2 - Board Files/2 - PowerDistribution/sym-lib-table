@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "QuadrotorLib")(type "KiCad")(uri "I:/GitHub/QuadrotorElectronics/2 - Board Files/4 - KiCADSymbolLibrary/QuadrotorLib.kicad_sym")(options "")(descr ""))
+  (lib (name "QuadrotorLib")(type "KiCad")(uri "C:/GitHub/QuadrotorElectronics/2 - Board Files/4 - KiCADSymbolLibrary/QuadrotorLib.kicad_sym")(options "")(descr ""))
 )
