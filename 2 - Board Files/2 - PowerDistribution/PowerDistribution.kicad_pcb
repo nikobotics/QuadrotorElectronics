@@ -297,7 +297,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0c0db27c-241b-413e-a66b-2b506352810d)
-    (at 151.77 63.01)
+    (at 166.93 69.1)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -896,7 +896,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 413154bf-082d-4198-8f00-7c11e4a5fc56)
-    (at 147.32 60.96)
+    (at 162.48 67.05)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -980,7 +980,7 @@
 
   (footprint "Inductor_SMD:L_12x12mm_H4.5mm" (layer "F.Cu")
     (tedit 5990349B) (tstamp 444679bc-0bb7-4739-9707-ccdb25fc9d2b)
-    (at 152.48 52.33)
+    (at 167.64 58.42)
     (descr "Choke, SMD, 12x12mm 4.5mm height")
     (tags "Choke SMD")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -1084,7 +1084,7 @@
 
   (footprint "Capacitor_SMD:CP_Elec_6.3x5.4" (layer "F.Cu")
     (tedit 5BCA39D0) (tstamp 45db0099-b5ab-4556-82a2-1dabb435b435)
-    (at 165.19 49.28)
+    (at 180.35 55.37)
     (descr "SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm")
     (tags "capacitor electrolytic")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -1149,7 +1149,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 51454e18-5029-423e-b5fc-f3b8dd860646)
-    (at 171.97 52.65)
+    (at 187.13 58.74)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -1426,7 +1426,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 6f24021f-5e36-4518-a099-64a2f674c613)
-    (at 158.34 64.38)
+    (at 173.5 70.47)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -1468,7 +1468,7 @@
 
   (footprint "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm" (layer "F.Cu")
     (tedit 5DC5FE76) (tstamp 722756a3-acc1-49af-b4bc-27637457c9b4)
-    (at 174.74 48.43)
+    (at 189.9 54.52)
     (descr "SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -1574,7 +1574,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7d4e7997-ff62-4768-9077-77acaf654c61)
-    (at 153.91 60.45)
+    (at 169.07 66.54)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -1616,7 +1616,7 @@
 
   (footprint "Diode_SMD:D_SOD-323" (layer "F.Cu")
     (tedit 58641739) (tstamp 7ea69cc2-86d9-4381-b5e2-eab0a1b1c613)
-    (at 147.22 63.94)
+    (at 162.38 70.03)
     (descr "SOD-323")
     (tags "SOD-323")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -1665,7 +1665,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 87d51029-d17b-48fb-880c-91e6ba37cba2)
-    (at 156.8 60.44)
+    (at 171.96 66.53)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -2306,7 +2306,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp bf33a9a7-4bee-4c45-902a-59df1f7c567c)
-    (at 158.34 62.41)
+    (at 173.5 68.5)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -2348,7 +2348,7 @@
 
   (footprint "Capacitor_SMD:CP_Elec_6.3x5.4" (layer "F.Cu")
     (tedit 5BCA39D0) (tstamp c2517613-a298-410b-9321-a118adc0bd62)
-    (at 165.19 57.43)
+    (at 180.35 63.52)
     (descr "SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm")
     (tags "capacitor electrolytic")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -2607,7 +2607,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp cc528d8b-392f-4b81-9760-7bb2dbc5577e)
-    (at 155.45 62.44)
+    (at 170.61 68.53)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -2691,7 +2691,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d019f7f0-25bb-4339-9602-32c65f5ff92b)
-    (at 155.43 64.42)
+    (at 170.59 70.51)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -2775,7 +2775,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d37ecf21-4538-414b-8ae8-41f80ae35a63)
-    (at 151 60.45)
+    (at 166.16 66.54)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "ControlPower.kicad_sch")
@@ -3384,6 +3384,9 @@
   )
   (gr_text "POWER INPUT STAGE" (at 113.284 116.84) (layer "F.SilkS") (tstamp 86d0e5a2-c65c-4652-8f8c-4bef336dfff2)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "3.3V Switching Regulator" (at 172.72 76.2) (layer "F.SilkS") (tstamp af8e615e-25e2-42b4-bab3-c502952eda5b)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "OVC FLT" (at 112.014 68.072 270) (layer "F.SilkS") (tstamp f8603467-823e-4ddd-aa03-fbcf5142cc13)
     (effects (font (size 0.75 0.75) (thickness 0.1875)))
