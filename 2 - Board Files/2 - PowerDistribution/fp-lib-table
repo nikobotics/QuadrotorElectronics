@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "QuadrotorFootprints")(type "KiCad")(uri "I:/GitHub/QuadrotorElectronics/2 - Board Files/5 - KiCADFootprintLibrary/QuadrotorFootprints.pretty")(options "")(descr ""))
+  (lib (name "QuadrotorFootprints")(type "KiCad")(uri "${KIPRJMOD}/../5 - KiCADFootprintLibrary/QuadrotorFootprints.pretty")(options "")(descr ""))
 )
