@@ -355,7 +355,7 @@
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/bada3a30-7564-4eae-9225-8f9fb0798327"
       (reference "#PWR0619") (unit 1) (value "+BATT") (footprint "")
     )
-    (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/5d8ceb27-9d2b-49f0-ae80-a0c05615d35a"
+    (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/dd2afffb-f113-43e3-ac1a-8c27116a506d"
       (reference "#PWR0620") (unit 1) (value "GND") (footprint "")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/2f4db7c3-a45c-4d55-8b61-2ed8b67abaf5"
@@ -617,7 +617,7 @@
       (reference "D503") (unit 1) (value "D") (footprint "Diode_SMD:D_SMC")
     )
     (path "/ab2e8616-923a-4229-aff8-a80d5bd0df85/1dd99bbf-850f-4d91-818b-fa58742057f2"
-      (reference "F201") (unit 1) (value "Polyfuse") (footprint "Fuse:Fuse_2920_7451Metric")
+      (reference "F201") (unit 1) (value "Polyfuse") (footprint "QuadrotorFootprints:Fuse_2920_7451Metric")
     )
     (path "/c9a381dd-b8d5-468f-b423-19c1c8b5f516"
       (reference "H101") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad_Via")
@@ -640,80 +640,92 @@
     (path "/7e450a28-23da-4e99-80a1-40a1f91c29b1/ab1fdfc5-612c-4ce9-a3d5-595dcc65b235"
       (reference "J301") (unit 1) (value "Conn_02x15_Counter_Clockwise") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x15_P1.27mm_Vertical_SMD")
     )
+    (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/a48a44f2-3c90-4840-9631-fba0ba987a31"
+      (reference "J601") (unit 1) (value "Conn_01x03_Female") (footprint "QuadrotorFootprints:MotorOutputPads")
+    )
+    (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/43acabdf-0aea-4b96-aad8-d50e75cdaeb6"
+      (reference "J602") (unit 1) (value "Conn_01x03_Female") (footprint "QuadrotorFootprints:MotorOutputPads")
+    )
+    (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/05ec55c5-da7e-4879-a425-8d405ef0da10"
+      (reference "J603") (unit 1) (value "Conn_01x03_Female") (footprint "QuadrotorFootprints:MotorOutputPads")
+    )
+    (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/3a6ecad2-ee0c-4177-92bb-ccd21afa4a57"
+      (reference "J604") (unit 1) (value "Conn_01x03_Female") (footprint "QuadrotorFootprints:MotorOutputPads")
+    )
     (path "/b09c5136-5273-44c4-b46a-d9df118f86f4/214962ce-30e9-40e8-a35c-d05a6dfaba28"
       (reference "L501") (unit 1) (value "3u3") (footprint "Inductor_SMD:L_12x12mm_H4.5mm")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/21b3e378-c65e-4563-a706-da92660c0a23"
-      (reference "Q601") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q601") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/4b9f96f1-d732-4b18-a8ad-f4741c19057f"
-      (reference "Q602") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q602") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/f5209b4a-9e3c-46d4-bfa4-4b64742088e3"
-      (reference "Q603") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q603") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/cc846557-cf8e-4264-b3f6-8f88417ed6d5"
-      (reference "Q604") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q604") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/0973ba83-ddb8-48b6-9fc3-a9ce86a62f28"
-      (reference "Q605") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q605") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/f860d3a4-3366-471b-ae1f-3bbe7b48e184"
-      (reference "Q606") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q606") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/992c5329-6a11-4210-aa32-e6ce03882f69"
-      (reference "Q607") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q607") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/3f5ceb88-d42e-459c-ad62-5dc874fd6651"
-      (reference "Q608") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q608") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/5514486b-0505-435d-91e2-44a4f0c6ec4b"
-      (reference "Q609") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q609") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/2935e804-30fe-43e8-9b48-daf977351dae"
-      (reference "Q610") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q610") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/35d34fcd-8aa4-49a9-9915-ea8eb33b1cc1"
-      (reference "Q611") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q611") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/463ae966-c342-4949-9e81-856cf0c51c9e"
-      (reference "Q612") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q612") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/062f00b8-efd9-44fe-8d95-1ea7b906d7a3"
-      (reference "Q613") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q613") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/b6bd7f2a-0e99-410d-b128-b2f0b3073c67"
-      (reference "Q614") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q614") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/076a1293-b0fc-469b-8048-679fa474b792"
-      (reference "Q615") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q615") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/887a1889-c8e8-4ba7-8566-cf56717ba70c"
-      (reference "Q616") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q616") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/3a73d266-805d-4626-a144-6be1953b5a5d"
-      (reference "Q617") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q617") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/3e99db07-6769-425e-b966-238edbcaf963"
-      (reference "Q618") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q618") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/4d941dbd-19a0-4a4a-a595-eb84f7dc204c"
-      (reference "Q619") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q619") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/4c7b26bb-c925-4369-9a63-6bacc5b17619"
-      (reference "Q620") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q620") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/f23e836b-cf59-478a-b4f4-45e73905d342"
-      (reference "Q621") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q621") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/6e1664bc-19ea-4f1e-9748-e80d4c9e14b2"
-      (reference "Q622") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q622") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/e7e522cd-85ef-42ec-82d0-a36fa37e29ff"
-      (reference "Q623") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q623") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/4d460d75-9bc4-42dd-ad44-f7b0e0588f0d/04269c31-fdcf-4221-9722-380de8752076"
-      (reference "Q624") (unit 1) (value "Q_NMOS_GDS") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
+      (reference "Q624") (unit 1) (value "Q_NMOS_GDS") (footprint "QuadrotorFootprints:8-PowerVDFN")
     )
     (path "/ab2e8616-923a-4229-aff8-a80d5bd0df85/c6608da5-728e-4fac-b524-3323f5a95030"
       (reference "R201") (unit 1) (value "R_Small_US") (footprint "Resistor_SMD:R_0402_1005Metric")

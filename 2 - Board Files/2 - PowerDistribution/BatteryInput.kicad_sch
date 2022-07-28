@@ -2079,7 +2079,7 @@
     (uuid 1dd99bbf-850f-4d91-818b-fa58742057f2)
     (property "Reference" "F201" (id 0) (at 165.1 46.99 90))
     (property "Value" "Polyfuse" (id 1) (at 165.1 41.91 90))
-    (property "Footprint" "Fuse:Fuse_2920_7451Metric" (id 2) (at 170.18 43.18 0)
+    (property "Footprint" "QuadrotorFootprints:Fuse_2920_7451Metric" (id 2) (at 170.18 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "~" (id 3) (at 165.1 44.45 0)
